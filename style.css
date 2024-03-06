@@ -1,0 +1,49 @@
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    padding: 2px;
+  }
+  
+  td {
+    width: 20px;
+  }
+
+body {
+    padding: 3rem;
+}
+
+img {
+    width: 100%;
+}
+
+th {
+    font-weight: bold;
+    justify-content: center;
+}
+
+th, td {
+    text-align: center;
+    padding: 1rem;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
